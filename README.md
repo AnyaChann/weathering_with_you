@@ -39,7 +39,7 @@ Thiết kế **đơn giản**, **hiện đại** và **dễ sử dụng**.
 
 ```bash
 # 1. Clone dự án
-git clone https://github.com/your-repo/weather_app_flutter.git
+git clone https://github.com/AnyaChann/weathering_with_you.git
 
 # 2. Cài đặt các dependency
 flutter pub get
