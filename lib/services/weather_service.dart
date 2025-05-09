@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/weather_model.dart';
 
 class WeatherService {
-  final String apiKey = '9b118afe5509809ebdf24c3d1d639e13'; // Thay bằng API key của bạn
+  final String apiKey = 'YOUR_API_KEY'; // Thay bằng API key của bạn
   final String apiUrl = 'https://api.openweathermap.org/data/2.5/forecast';
 
   Future<List<Weather>> fetchHourlyWeather(double lat, double lon) async {
