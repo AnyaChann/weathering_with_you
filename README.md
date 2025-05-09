@@ -91,7 +91,7 @@ lib/
 
 1. Mở ứng dụng.
 2. Ứng dụng tự động lấy dữ liệu theo vị trí mặc định:  
-   **Hồ Chí Minh** *(lat: 10.8231, lon: 106.6297)*.
+   **Hà Nội** *(lat: 21.0285, lon: 105.8542)*.
 3. Xem danh sách dự báo thời tiết trong 24 giờ tiếp theo:
    - Thời gian
    - Nhiệt độ
