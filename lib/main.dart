@@ -36,7 +36,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
   @override
   void initState() {
     super.initState();
-    _weatherData = _weatherService.fetchHourlyWeather(10.8231, 106.6297); // Tọa độ Hồ Chí Minh
+    _weatherData = _weatherService.fetchHourlyWeather(21.0285, 105.8542); // Tọa độ Hà Nội
   }
 
   @override
